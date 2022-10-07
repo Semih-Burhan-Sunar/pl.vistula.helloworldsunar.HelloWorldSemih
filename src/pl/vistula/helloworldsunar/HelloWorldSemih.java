@@ -2,12 +2,12 @@ package pl.vistula.helloworldsunar;
 
 public class HelloWorldSemih {
     public static void main(String[] args) {
-        println();System.out.println("HelloWorldVistulaSunar");
+        System.out.println("HelloWorldVistulaSunar");
+        System.out.println("HelloWorldVistulaSunaraaaaa");
+        System.out.println("HelloWorldVistulaSunaraaaaa");
     }
 
-    private static void println() {
 
-    }
 
 
 }
