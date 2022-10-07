@@ -5,6 +5,7 @@ public class HelloWorldSemih {
         System.out.println("HelloWorldVistulaSunar");
         System.out.println("HelloWorldVistulaSunaraaaaa");
         System.out.println("HelloWorldVistulaSunarbvvgffgfaaaaa");
+        System.out.println("HelloWorldVistulaSunarbvvgffgfaaaaa");
     }
 
 
